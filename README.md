@@ -4,4 +4,4 @@ Criando um app de tarefas, aplicando o conhecimento adquirido no bootcamp androi
 
 Criação da barra de tarefa interativa (add, cancelar, data e hora)
 
-Obs.: Todo o conteúdo da criação está na branche master
+Obs.: Todo o conteúdo da criação está na branche master.
